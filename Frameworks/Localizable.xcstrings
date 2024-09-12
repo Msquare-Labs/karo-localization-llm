@@ -18333,49 +18333,49 @@
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "私密地"
           }
         },
         "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "私密地"
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "In privato"
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "비공개로"
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Privat"
           }
         },
         "hi": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "निजी तौर पर"
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Prywatnie"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Özel olarak"
           }
         },
         "en-AU": {
@@ -18476,49 +18476,49 @@
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "创建公共链接"
           }
         },
         "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "建立公開連結"
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Crea link pubblico"
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "공개 링크 만들기"
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Skapa offentlig länk"
           }
         },
         "hi": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "सार्वजनिक लिंक बनाएं"
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Utwórz link publiczny"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Herkese açık bağlantı oluştur"
           }
         },
         "en-AU": {
@@ -18619,49 +18619,49 @@
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "拥有链接的任何人都可以完成或取消任务，无需使用应用程序"
           }
         },
         "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "擁有連結的任何人都可以完成或取消任務，無需使用應用程式"
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Chiunque abbia il link può completare o annullare l'attività senza richiedere l'app"
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "링크가 있는 사람은 앱 없이도 작업을 완료하거나 취소할 수 있습니다"
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Vem som helst med länken kan slutföra eller avbryta uppgiften utan att behöva appen"
           }
         },
         "hi": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "लिंक वाला कोई भी व्यक्ति ऐप की आवश्यकता के बिना कार्य को पूरा या रद्द कर सकता है"
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Każdy z linkiem może ukończyć lub anulować zadanie bez potrzeby posiadania aplikacji"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Bağlantıya sahip olan herkes uygulamaya ihtiyaç duymadan görevi tamamlayabilir veya iptal edebilir"
           }
         },
         "en-AU": {
@@ -18762,49 +18762,49 @@
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "重新分配给..."
           }
         },
         "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "重新分配給..."
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Riassegna a..."
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "다시 할당..."
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Tilldela på nytt till..."
           }
         },
         "hi": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "पुनः असाइन करें..."
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Przypisz ponownie do..."
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Yeniden ata..."
           }
         },
         "en-AU": {
@@ -18905,49 +18905,49 @@
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "最近"
           }
         },
         "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "最近"
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Recenti"
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "최근"
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Senaste"
           }
         },
         "hi": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "हाल ही के"
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Ostatnie"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Son kullanılanlar"
           }
         },
         "en-AU": {
@@ -19048,49 +19048,49 @@
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "提醒"
           }
         },
         "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "提醒"
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Promemoria"
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "알림"
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Påminnelse"
           }
         },
         "hi": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "रिमाइंडर"
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Przypomnienie"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Hatırlatıcı"
           }
         },
         "en-AU": {
@@ -19191,49 +19191,49 @@
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "提醒事项"
           }
         },
         "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "提醒事項"
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Promemoria"
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "알림"
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Påminnelser"
           }
         },
         "hi": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "रिमाइंडर्स"
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Przypomnienia"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Hatırlatıcılar"
           }
         },
         "en-AU": {
@@ -19334,49 +19334,49 @@
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "已向%@发送提醒"
           }
         },
         "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "已向%@發送提醒"
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "%@ è stato ricordato"
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "%@에게 알림을 보냈습니다"
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "%@ har påmints"
           }
         },
         "hi": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "%@ को याद दिलाया गया है"
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Wysłano przypomnienie do %@"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "%@ hatırlatıldı"
           }
         },
         "en-AU": {
@@ -19477,49 +19477,49 @@
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "立即提醒"
           }
         },
         "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "立即提醒"
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Ricorda ora"
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "지금 알림"
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Påminn nu"
           }
         },
         "hi": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "अभी याद दिलाएं"
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Przypomnij teraz"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Şimdi hatırlat"
           }
         },
         "en-AU": {
@@ -19621,49 +19621,49 @@
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "移除"
           }
         },
         "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "移除"
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Rimuovi"
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "제거"
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Ta bort"
           }
         },
         "hi": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "हटाएं"
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Usuń"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "Kaldır"
           }
         },
         "en-AU": {

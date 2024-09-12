@@ -8,6 +8,17 @@ def estimate_tokens(text):
     return len(text) // 4 + 1
 
 
+def is_translation_missing(translation):
+    if not translation:
+        return True
+    if isinstance(translation, dict):
+        if 'stringUnit' in translation:
+            return translation['stringUnit'].get('value', '') == ''
+        elif 'variations' in translation:
+            return all(is_translation_missing(var) for var in translation['variations'].get('plural', {}).values())
+    return False
+
+
 def check_translations(folder_path, languages):
     missing_translations = {}
     file_structures = {}
@@ -26,12 +37,21 @@ def check_translations(folder_path, languages):
                 if isinstance(string_data, dict) and 'localizations' in string_data:
                     en_localization = string_data['localizations'].get('en', {})
                     if isinstance(en_localization, dict):
-                        en_value = en_localization.get('stringUnit', {}).get('value') or en_localization.get('value',
-                                                                                                             string_key)
+                        if 'stringUnit' in en_localization:
+                            en_value = en_localization['stringUnit'].get('value') or string_key
+                        elif 'variations' in en_localization:
+                            en_value = {
+                                form: variation['stringUnit'].get('value', string_key)
+                                for form, variation in en_localization['variations'].get('plural', {}).items()
+                            }
                     elif isinstance(en_localization, str):
                         en_value = en_localization
 
-                missing_langs = [lang for lang in languages if lang not in string_data.get('localizations', {})]
+                missing_langs = [
+                    lang for lang in languages
+                    if lang not in string_data.get('localizations', {})
+                    or is_translation_missing(string_data['localizations'].get(lang))
+                ]
 
                 if missing_langs:
                     if filename not in missing_translations:
@@ -47,7 +67,7 @@ def check_translations(folder_path, languages):
 def create_llm_schemas(missing_translations, languages, max_tokens=4000):
     llm_schemas = []
     current_schema = {
-        "instructions": "Please provide translations for the missing languages. Use the English version as a reference.",
+        "instructions": "Please provide translations for the missing languages. Use the English version as a reference. For plural forms, provide appropriate translations for each form if applicable.",
         "translations": {}
     }
     current_tokens = estimate_tokens(json.dumps(current_schema["instructions"]))
@@ -64,7 +84,7 @@ def create_llm_schemas(missing_translations, languages, max_tokens=4000):
             if current_tokens + new_entry_tokens > max_tokens:
                 llm_schemas.append(current_schema)
                 current_schema = {
-                    "instructions": "Please provide translations for the missing languages. Use the English version as a reference.",
+                    "instructions": "Please provide translations for the missing languages. Use the English version as a reference. For plural forms, provide appropriate translations for each form if applicable.",
                     "translations": {}
                 }
                 current_tokens = estimate_tokens(json.dumps(current_schema["instructions"]))
@@ -84,44 +104,6 @@ def save_llm_schemas(llm_schemas):
         with open(filename, 'w', encoding='utf-8') as outfile:
             json.dump(schema, outfile, indent=2, ensure_ascii=False)
         print(f"Created {filename} for LLM processing")
-
-
-def update_original_files(file_structures, llm_translations, folder_path):
-    for key, translations in llm_translations["translations"].items():
-        filename, string_key = key.split(':', 1)
-        file_data = file_structures[filename]
-        if isinstance(file_data["strings"][string_key], dict) and "localizations" in file_data["strings"][string_key]:
-            for lang, translation in translations["missing_translations"].items():
-                if translation:  # Only update if a translation was provided
-                    file_data["strings"][string_key]["localizations"][lang] = {
-                        "stringUnit": {
-                            "state": "translated",
-                            "value": translation
-                        }
-                    }
-        else:
-            file_data["strings"][string_key] = {
-                "localizations": {
-                    lang: {
-                        "stringUnit": {
-                            "state": "translated",
-                            "value": translation if translation else string_key
-                        }
-                    } for lang, translation in translations["missing_translations"].items()
-                }
-            }
-            file_data["strings"][string_key]["localizations"]["en"] = {
-                "stringUnit": {
-                    "state": "translated",
-                    "value": translations["en"]
-                }
-            }
-
-    for filename, data in file_structures.items():
-        output_path = os.path.join(folder_path, filename)
-        with open(output_path, 'w', encoding='utf-8') as outfile:
-            json.dump(data, outfile, indent=2, ensure_ascii=False)
-        print(f"Updated {filename} with new translations")
 
 
 # Main execution
