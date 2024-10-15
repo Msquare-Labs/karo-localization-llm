@@ -4,16 +4,10 @@
     "notificationBodyAddedToGroup": {
       "extractionState": "manual",
       "localizations": {
-        "en": {
+        "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "Added you to %@"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vous a ajouté(e) à %@"
+            "value": "أضافك إلى %@"
           }
         },
         "de": {
@@ -22,10 +16,64 @@
             "value": "Hat dich zu %@ hinzugefügt"
           }
         },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Added you to %@"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Added you to %@"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Added you to %@"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Added you to %@"
+          }
+        },
         "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Te añadió a %@"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Te añadió a %@"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vous a ajouté(e) à %@"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vous a ajouté(e) à %@"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "आपको %@ में जोड़ा गया"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aggiunto a %@"
           }
         },
         "ja": {
@@ -34,22 +82,52 @@
             "value": "%@に追加されました"
           }
         },
-        "pt": {
+        "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "Adicionou você a %@"
-          }
-        },
-        "ar": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "أضافك إلى %@"
+            "value": "귀하를 %@ 에 추가했습니다"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
             "value": "Heeft je toegevoegd aan %@"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dodano Cię do %@"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Adicionou você a %@"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Adicionou você a %@"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Adicionou você a %@"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Du har lagts till i %@"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ grubuna eklendiniz"
           }
         },
         "zh-Hans": {
@@ -63,100 +141,16 @@
             "state": "translated",
             "value": "您已被加入 %@"
           }
-        },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Aggiunto a %@"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "귀하를 %@ 에 추가했습니다"
-          }
-        },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Du har lagts till i %@"
-          }
-        },
-        "hi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "आपको %@ में जोड़ा गया"
-          }
-        },
-        "pl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Dodano Cię do %@"
-          }
-        },
-        "tr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ grubuna eklendiniz"
-          }
-        },
-        "en-AU": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Added you to %@"
-          }
-        },
-        "en-IN": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Added you to %@"
-          }
-        },
-        "en-GB": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Added you to %@"
-          }
-        },
-        "es-419": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Te añadió a %@"
-          }
-        },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Adicionou você a %@"
-          }
-        },
-        "pt-PT": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Adicionou você a %@"
-          }
-        },
-        "fr-CA": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vous a ajouté(e) à %@"
-          }
         }
       }
     },
     "notificationBodyJoinedApp": {
       "extractionState": "manual",
       "localizations": {
-        "en": {
+        "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "Joined Karo!"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "A rejoint Karo !"
+            "value": "انضم إلى كارو!"
           }
         },
         "de": {
@@ -165,64 +159,52 @@
             "value": "Ist Karo beigetreten!"
           }
         },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Joined Karo!"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Joined Karo!"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Joined Karo!"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Joined Karo!"
+          }
+        },
         "es": {
           "stringUnit": {
             "state": "translated",
             "value": "¡Se unió a Karo!"
           }
         },
-        "ja": {
+        "es-419": {
           "stringUnit": {
             "state": "translated",
-            "value": "Karoに参加しました！"
+            "value": "¡Se unió a Karo!"
           }
         },
-        "pt": {
+        "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Entrou no Karo!"
+            "value": "A rejoint Karo !"
           }
         },
-        "ar": {
+        "fr-CA": {
           "stringUnit": {
             "state": "translated",
-            "value": "انضم إلى كارو!"
-          }
-        },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Is lid geworden van Karo!"
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "加入 Karo!"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "加入 Karo!"
-          }
-        },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Hai aderito a Karo!"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Karo에 가입하셨습니다!"
-          }
-        },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gick med i Karo!"
+            "value": "A rejoint Karo !"
           }
         },
         "hi": {
@@ -231,40 +213,40 @@
             "value": "Karo में शामिल हुए!"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hai aderito a Karo!"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Karoに参加しました！"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Karo에 가입하셨습니다!"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Is lid geworden van Karo!"
+          }
+        },
         "pl": {
           "stringUnit": {
             "state": "translated",
             "value": "Dołączyłeś do Karo!"
           }
         },
-        "tr": {
+        "pt": {
           "stringUnit": {
             "state": "translated",
-            "value": "Karo'ya katıldın!"
-          }
-        },
-        "en-AU": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Joined Karo!"
-          }
-        },
-        "en-IN": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Joined Karo!"
-          }
-        },
-        "en-GB": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Joined Karo!"
-          }
-        },
-        "es-419": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "¡Se unió a Karo!"
+            "value": "Entrou no Karo!"
           }
         },
         "pt-BR": {
@@ -279,10 +261,28 @@
             "value": "Entrou no Karo!"
           }
         },
-        "fr-CA": {
+        "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": "A rejoint Karo !"
+            "value": "Gick med i Karo!"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Karo'ya katıldın!"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "加入 Karo!"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "加入 Karo!"
           }
         }
       }
@@ -290,16 +290,10 @@
     "notificationBodyRemovedFromGroup": {
       "extractionState": "manual",
       "localizations": {
-        "en": {
+        "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "Removed you from %@"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vous a retiré(e) de %@"
+            "value": "أزالك من %@"
           }
         },
         "de": {
@@ -308,10 +302,64 @@
             "value": "Hat dich aus %@ entfernt"
           }
         },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Removed you from %@"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Removed you from %@"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Removed you from %@"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Removed you from %@"
+          }
+        },
         "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Te eliminó de %@"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Te eliminó de %@"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vous a retiré(e) de %@"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vous a retiré(e) de %@"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "आपको %@ से हटा दिया गया"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rimosso da %@"
           }
         },
         "ja": {
@@ -320,22 +368,52 @@
             "value": "%@から削除されました"
           }
         },
-        "pt": {
+        "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "Removeu você de %@"
-          }
-        },
-        "ar": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "أزالك من %@"
+            "value": "귀하를 %@ 에서 제거했습니다"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
             "value": "Heeft je verwijderd uit %@"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Usunięto Cię z %@"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Removeu você de %@"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Removeu você de %@"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Removeu você de %@"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Du har tagits bort från %@"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ grubundan çıkarıldınız"
           }
         },
         "zh-Hans": {
@@ -349,100 +427,16 @@
             "state": "translated",
             "value": "您已被移出 %@"
           }
-        },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Rimosso da %@"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "귀하를 %@ 에서 제거했습니다"
-          }
-        },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Du har tagits bort från %@"
-          }
-        },
-        "hi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "आपको %@ से हटा दिया गया"
-          }
-        },
-        "pl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Usunięto Cię z %@"
-          }
-        },
-        "tr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ grubundan çıkarıldınız"
-          }
-        },
-        "en-AU": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Removed you from %@"
-          }
-        },
-        "en-IN": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Removed you from %@"
-          }
-        },
-        "en-GB": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Removed you from %@"
-          }
-        },
-        "es-419": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Te eliminó de %@"
-          }
-        },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Removeu você de %@"
-          }
-        },
-        "pt-PT": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Removeu você de %@"
-          }
-        },
-        "fr-CA": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vous a retiré(e) de %@"
-          }
         }
       }
     },
     "notificationBodyUpgradeGroupRole": {
       "extractionState": "manual",
       "localizations": {
-        "en": {
+        "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "Upgraded your role in %@"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "A amélioré votre rôle dans %@"
+            "value": "تمت ترقية دورك في %@"
           }
         },
         "de": {
@@ -451,10 +445,64 @@
             "value": "Hat deine Rolle in %@ aufgewertet"
           }
         },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Upgraded your role in %@"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Upgraded your role in %@"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Upgraded your role in %@"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Upgraded your role in %@"
+          }
+        },
         "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Mejoró tu rol en %@"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mejoró tu rol en %@"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A amélioré votre rôle dans %@"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A amélioré votre rôle dans %@"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "आपकी भूमिका में %@ में उन्नयन किया गया"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Il tuo ruolo in %@ è stato aggiornato"
           }
         },
         "ja": {
@@ -463,22 +511,52 @@
             "value": "%@での役割がアップグレードされました"
           }
         },
-        "pt": {
+        "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "Atualizou seu papel em %@"
-          }
-        },
-        "ar": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "تمت ترقية دورك في %@"
+            "value": "%@ 에서 귀하의 역할이 승격되었습니다"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
             "value": "Heeft je rol in %@ verbeterd"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Awansowano Twoją rolę w %@"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Atualizou seu papel em %@"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Atualizou seu papel em %@"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Atualizou seu papel em %@"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Din roll i %@ har uppgraderats"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ içindeki rolünüz yükseltildi"
           }
         },
         "zh-Hans": {
@@ -492,100 +570,16 @@
             "state": "translated",
             "value": "您在 %@ 中的角色已升級"
           }
-        },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Il tuo ruolo in %@ è stato aggiornato"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ 에서 귀하의 역할이 승격되었습니다"
-          }
-        },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Din roll i %@ har uppgraderats"
-          }
-        },
-        "hi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "आपकी भूमिका में %@ में उन्नयन किया गया"
-          }
-        },
-        "pl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Awansowano Twoją rolę w %@"
-          }
-        },
-        "tr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ içindeki rolünüz yükseltildi"
-          }
-        },
-        "en-AU": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Upgraded your role in %@"
-          }
-        },
-        "en-IN": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Upgraded your role in %@"
-          }
-        },
-        "en-GB": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Upgraded your role in %@"
-          }
-        },
-        "es-419": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Mejoró tu rol en %@"
-          }
-        },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Atualizou seu papel em %@"
-          }
-        },
-        "pt-PT": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Atualizou seu papel em %@"
-          }
-        },
-        "fr-CA": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "A amélioré votre rôle dans %@"
-          }
         }
       }
     },
     "notificationTitleDueNow": {
       "extractionState": "manual",
       "localizations": {
-        "en": {
+        "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "Due now"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "À faire maintenant"
+            "value": "مستحق الآن"
           }
         },
         "de": {
@@ -594,10 +588,64 @@
             "value": "Jetzt fällig"
           }
         },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Due now"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Due now"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Due now"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Due now"
+          }
+        },
         "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Vence ahora"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vence ahora"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "À faire maintenant"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "À faire maintenant"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "अब देय"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scadenza ora"
           }
         },
         "ja": {
@@ -606,22 +654,52 @@
             "value": "期限が来ました"
           }
         },
-        "pt": {
+        "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "Prazo agora"
-          }
-        },
-        "ar": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "مستحق الآن"
+            "value": "지금 기한"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
             "value": "Nu te doen"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Termin teraz"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prazo agora"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prazo agora"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prazo agora"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Förfaller nu"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Şimdi süresi geçti"
           }
         },
         "zh-Hans": {
@@ -635,83 +713,148 @@
             "state": "translated",
             "value": "現在到期"
           }
+        }
+      }
+    },
+    "notificationTitleGroupUnassignedTaskCreated": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ added a task"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ أضاف مهمة"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ hat eine Aufgabe hinzugefügt"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ agregó una tarea"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ a ajouté une tâche"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@がタスクを追加しました"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ heeft een taak toegevoegd"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ adicionou uma tarefa"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 添加了一项任务"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 新增了一項任務"
+          }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scadenza ora"
+            "value": "%@ ha aggiunto un'attività"
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "지금 기한"
+            "value": "%@님이 작업을 추가했습니다"
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": "Förfaller nu"
+            "value": "%@ lade till en uppgift"
           }
         },
         "hi": {
           "stringUnit": {
             "state": "translated",
-            "value": "अब देय"
+            "value": "%@ ने एक कार्य जोड़ा"
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Termin teraz"
+            "value": "%@ dodał(a) zadanie"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Şimdi süresi geçti"
+            "value": "%@ bir görev ekledi"
           }
         },
         "en-AU": {
           "stringUnit": {
             "state": "translated",
-            "value": "Due now"
+            "value": "%@ added a task"
           }
         },
         "en-IN": {
           "stringUnit": {
             "state": "translated",
-            "value": "Due now"
+            "value": "%@ added a task"
           }
         },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
-            "value": "Due now"
+            "value": "%@ added a task"
           }
         },
         "es-419": {
           "stringUnit": {
             "state": "translated",
-            "value": "Vence ahora"
+            "value": "%@ agregó una tarea"
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Prazo agora"
+            "value": "%@ adicionou uma tarefa"
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Prazo agora"
+            "value": "%@ adicionou uma tarefa"
           }
         },
         "fr-CA": {
           "stringUnit": {
             "state": "translated",
-            "value": "À faire maintenant"
+            "value": "%@ a ajouté une tâche"
           }
         }
       }
@@ -719,16 +862,10 @@
     "notificationTitlePersonAssigned": {
       "extractionState": "manual",
       "localizations": {
-        "en": {
+        "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "%@ assigned to you"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ vous a été assigné(e)"
+            "value": "تم تعيين %@ لك"
           }
         },
         "de": {
@@ -737,10 +874,64 @@
             "value": "%@ wurde dir zugewiesen"
           }
         },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ assigned to you"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ assigned to you"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ assigned to you"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ assigned to you"
+          }
+        },
         "es": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ te fue asignado"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ te fue asignado"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ vous a été assigné(e)"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ vous a été assigné(e)"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ आपको असाइन किया गया है"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ assegnato a te"
           }
         },
         "ja": {
@@ -749,22 +940,52 @@
             "value": "%@があなたに割り当てられました"
           }
         },
-        "pt": {
+        "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "%@ atribuído a você"
-          }
-        },
-        "ar": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "تم تعيين %@ لك"
+            "value": "%@ 님이 귀하에게 할당했습니다"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ aan jou toegewezen"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ przypisano do Ciebie"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ atribuído a você"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ atribuído a você"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ atribuído a você"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ tilldelad dig"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ size atandı"
           }
         },
         "zh-Hans": {
@@ -778,100 +999,16 @@
             "state": "translated",
             "value": "%@ 已分派給您"
           }
-        },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ assegnato a te"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ 님이 귀하에게 할당했습니다"
-          }
-        },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ tilldelad dig"
-          }
-        },
-        "hi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ आपको असाइन किया गया है"
-          }
-        },
-        "pl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ przypisano do Ciebie"
-          }
-        },
-        "tr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ size atandı"
-          }
-        },
-        "en-AU": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ assigned to you"
-          }
-        },
-        "en-IN": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ assigned to you"
-          }
-        },
-        "en-GB": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ assigned to you"
-          }
-        },
-        "es-419": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ te fue asignado"
-          }
-        },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ atribuído a você"
-          }
-        },
-        "pt-PT": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ atribuído a você"
-          }
-        },
-        "fr-CA": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ vous a été assigné(e)"
-          }
         }
       }
     },
     "notificationTitlePersonCanceled": {
       "extractionState": "manual",
       "localizations": {
-        "en": {
+        "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "%@ canceled"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ annulé(e)"
+            "value": "تم إلغاء %@"
           }
         },
         "de": {
@@ -880,64 +1017,52 @@
             "value": "%@ abgesagt"
           }
         },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ canceled"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ canceled"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ canceled"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ canceled"
+          }
+        },
         "es": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ cancelado"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@がキャンセルされました"
-          }
-        },
-        "pt": {
+        "es-419": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ cancelado"
           }
         },
-        "ar": {
+        "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "تم إلغاء %@"
+            "value": "%@ annulé(e)"
           }
         },
-        "nl": {
+        "fr-CA": {
           "stringUnit": {
             "state": "translated",
-            "value": "%@ geannuleerd"
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ 已取消"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ 已取消"
-          }
-        },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ annullato"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ 가 취소되었습니다"
-          }
-        },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ avbokad"
+            "value": "%@ annulé(e)"
           }
         },
         "hi": {
@@ -946,37 +1071,37 @@
             "value": "%@ रद्द किया गया"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ annullato"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@がキャンセルされました"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 가 취소되었습니다"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ geannuleerd"
+          }
+        },
         "pl": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ anulowano"
           }
         },
-        "tr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ iptal edildi"
-          }
-        },
-        "en-AU": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ canceled"
-          }
-        },
-        "en-IN": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ canceled"
-          }
-        },
-        "en-GB": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ canceled"
-          }
-        },
-        "es-419": {
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ cancelado"
@@ -994,10 +1119,28 @@
             "value": "%@ cancelado"
           }
         },
-        "fr-CA": {
+        "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": "%@ annulé(e)"
+            "value": "%@ avbokad"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ iptal edildi"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 已取消"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 已取消"
           }
         }
       }
@@ -1005,16 +1148,10 @@
     "notificationTitlePersonCompleted": {
       "extractionState": "manual",
       "localizations": {
-        "en": {
+        "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "%@ completed"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ terminé(e)"
+            "value": "تم إكمال %@"
           }
         },
         "de": {
@@ -1023,10 +1160,64 @@
             "value": "%@ abgeschlossen"
           }
         },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ completed"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ completed"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ completed"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ completed"
+          }
+        },
         "es": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ completado"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ completado"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ terminé(e)"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ terminé(e)"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ ने पूरा किया"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ ha completato"
           }
         },
         "ja": {
@@ -1035,22 +1226,52 @@
             "value": "%@が完了しました"
           }
         },
-        "pt": {
+        "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "%@ concluído"
-          }
-        },
-        "ar": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "تم إكمال %@"
+            "value": "%@님이 완료했습니다"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ voltooid"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ ukończył"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ concluído"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ concluído"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ concluído"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ slutförde"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ tamamlandı"
           }
         },
         "zh-Hans": {
@@ -1064,100 +1285,16 @@
             "state": "translated",
             "value": "%@ 已完成"
           }
-        },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ ha completato"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@님이 완료했습니다"
-          }
-        },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ slutförde"
-          }
-        },
-        "hi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ ने पूरा किया"
-          }
-        },
-        "pl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ ukończył"
-          }
-        },
-        "tr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ tamamlandı"
-          }
-        },
-        "en-AU": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ completed"
-          }
-        },
-        "en-IN": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ completed"
-          }
-        },
-        "en-GB": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ completed"
-          }
-        },
-        "es-419": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ completado"
-          }
-        },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ concluído"
-          }
-        },
-        "pt-PT": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ concluído"
-          }
-        },
-        "fr-CA": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ terminé(e)"
-          }
         }
       }
     },
     "notificationTitlePersonDeleted": {
       "extractionState": "manual",
       "localizations": {
-        "en": {
+        "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "%@ deleted"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ supprimé(e)"
+            "value": "تم حذف %@"
           }
         },
         "de": {
@@ -1166,10 +1303,64 @@
             "value": "%@ gelöscht"
           }
         },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ deleted"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ deleted"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ deleted"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ deleted"
+          }
+        },
         "es": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ eliminado"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ eliminado"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ supprimé(e)"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ supprimé(e)"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ को हटा दिया गया"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ ha eliminato"
           }
         },
         "ja": {
@@ -1178,22 +1369,52 @@
             "value": "%@が削除されました"
           }
         },
-        "pt": {
+        "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "%@ excluído"
-          }
-        },
-        "ar": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "تم حذف %@"
+            "value": "%@님이 삭제했습니다"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ verwijderd"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ usunął"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ excluído"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ excluído"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ excluído"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ raderade"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ silindi"
           }
         },
         "zh-Hans": {
@@ -1207,100 +1428,16 @@
             "state": "translated",
             "value": "%@ 已刪除"
           }
-        },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ ha eliminato"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@님이 삭제했습니다"
-          }
-        },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ raderade"
-          }
-        },
-        "hi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ को हटा दिया गया"
-          }
-        },
-        "pl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ usunął"
-          }
-        },
-        "tr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ silindi"
-          }
-        },
-        "en-AU": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ deleted"
-          }
-        },
-        "en-IN": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ deleted"
-          }
-        },
-        "en-GB": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ deleted"
-          }
-        },
-        "es-419": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ eliminado"
-          }
-        },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ excluído"
-          }
-        },
-        "pt-PT": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ excluído"
-          }
-        },
-        "fr-CA": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ supprimé(e)"
-          }
         }
       }
     },
     "notificationTitlePersonEdited": {
       "extractionState": "manual",
       "localizations": {
-        "en": {
+        "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "%@ edited"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ modifié(e)"
+            "value": "تم تحرير %@"
           }
         },
         "de": {
@@ -1309,10 +1446,64 @@
             "value": "%@ bearbeitet"
           }
         },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ edited"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ edited"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ edited"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ edited"
+          }
+        },
         "es": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ editado"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ editado"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ modifié(e)"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ modifié(e)"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ ने संपादित किया"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ ha modificato"
           }
         },
         "ja": {
@@ -1321,22 +1512,52 @@
             "value": "%@が編集されました"
           }
         },
-        "pt": {
+        "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "%@ editado"
-          }
-        },
-        "ar": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "تم تحرير %@"
+            "value": "%@님이 편집했습니다"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ bewerkt"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ edytował"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ editado"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ editado"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ editado"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ redigerade"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ düzenlendi"
           }
         },
         "zh-Hans": {
@@ -1350,100 +1571,16 @@
             "state": "translated",
             "value": "%@ 已編輯"
           }
-        },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ ha modificato"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@님이 편집했습니다"
-          }
-        },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ redigerade"
-          }
-        },
-        "hi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ ने संपादित किया"
-          }
-        },
-        "pl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ edytował"
-          }
-        },
-        "tr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ düzenlendi"
-          }
-        },
-        "en-AU": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ edited"
-          }
-        },
-        "en-IN": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ edited"
-          }
-        },
-        "en-GB": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ edited"
-          }
-        },
-        "es-419": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ editado"
-          }
-        },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ editado"
-          }
-        },
-        "pt-PT": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ editado"
-          }
-        },
-        "fr-CA": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ modifié(e)"
-          }
         }
       }
     },
     "notificationTitlePersonReminded": {
       "extractionState": "manual",
       "localizations": {
-        "en": {
+        "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "%@ reminded you"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ vous a rappelé"
+            "value": "ذكّرك %@"
           }
         },
         "de": {
@@ -1452,10 +1589,64 @@
             "value": "%@ hat dich erinnert"
           }
         },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ reminded you"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ reminded you"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ reminded you"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ reminded you"
+          }
+        },
         "es": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ te recordó"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ te recordó"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ vous a rappelé"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ vous a rappelé"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ ने आपको रिमाइंड किया"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ ti ha ricordato"
           }
         },
         "ja": {
@@ -1464,22 +1655,52 @@
             "value": "%@があなたにリマインドしました"
           }
         },
-        "pt": {
+        "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "%@ te lembrou"
-          }
-        },
-        "ar": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ذكّرك %@"
+            "value": "%@님이 귀하에게 알렸습니다"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ herinnerde je"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ przypomniał Ci"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ te lembrou"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ te lembrou"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ te lembrou"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ påminde dig"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ sizi hatırlattı"
           }
         },
         "zh-Hans": {
@@ -1493,100 +1714,16 @@
             "state": "translated",
             "value": "%@ 提醒了您"
           }
-        },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ ti ha ricordato"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@님이 귀하에게 알렸습니다"
-          }
-        },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ påminde dig"
-          }
-        },
-        "hi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ ने आपको रिमाइंड किया"
-          }
-        },
-        "pl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ przypomniał Ci"
-          }
-        },
-        "tr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ sizi hatırlattı"
-          }
-        },
-        "en-AU": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ reminded you"
-          }
-        },
-        "en-IN": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ reminded you"
-          }
-        },
-        "en-GB": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ reminded you"
-          }
-        },
-        "es-419": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ te recordó"
-          }
-        },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ te lembrou"
-          }
-        },
-        "pt-PT": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ te lembrou"
-          }
-        },
-        "fr-CA": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ vous a rappelé"
-          }
         }
       }
     },
     "notificationTitlePersonScheduled": {
       "extractionState": "manual",
       "localizations": {
-        "en": {
+        "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "%@ added a scheduled date"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ a ajouté une date planifiée"
+            "value": "أضاف %@ تاريخًا مجدولًا"
           }
         },
         "de": {
@@ -1595,10 +1732,64 @@
             "value": "%@ hat einen Termin hinzugefügt"
           }
         },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ added a scheduled date"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ added a scheduled date"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ added a scheduled date"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ added a scheduled date"
+          }
+        },
         "es": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ agregó una fecha programada"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ agregó una fecha programada"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ a ajouté une date planifiée"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ a ajouté une date planifiée"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ ने एक निर्धारित तिथि जोड़ी"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ ha aggiunto una data pianificata"
           }
         },
         "ja": {
@@ -1607,22 +1798,52 @@
             "value": "%@が予定日を追加しました"
           }
         },
-        "pt": {
+        "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "%@ adicionou uma data agendada"
-          }
-        },
-        "ar": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "أضاف %@ تاريخًا مجدولًا"
+            "value": "%@님이 예약 날짜를 추가했습니다"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ voegde een geplande datum toe"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ dodał zaplanowaną datę"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ adicionou uma data agendada"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ adicionou uma data agendada"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ adicionou uma data agendada"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ lade till ett planerat datum"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ planlı bir tarih ekledi"
           }
         },
         "zh-Hans": {
@@ -1636,100 +1857,16 @@
             "state": "translated",
             "value": "%@ 新增了排程日期"
           }
-        },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ ha aggiunto una data pianificata"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@님이 예약 날짜를 추가했습니다"
-          }
-        },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ lade till ett planerat datum"
-          }
-        },
-        "hi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ ने एक निर्धारित तिथि जोड़ी"
-          }
-        },
-        "pl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ dodał zaplanowaną datę"
-          }
-        },
-        "tr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ planlı bir tarih ekledi"
-          }
-        },
-        "en-AU": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ added a scheduled date"
-          }
-        },
-        "en-IN": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ added a scheduled date"
-          }
-        },
-        "en-GB": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ added a scheduled date"
-          }
-        },
-        "es-419": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ agregó una fecha programada"
-          }
-        },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ adicionou uma data agendada"
-          }
-        },
-        "pt-PT": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ adicionou uma data agendada"
-          }
-        },
-        "fr-CA": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ a ajouté une date planifiée"
-          }
         }
       }
     },
     "notificationTitlePersonUnassigned": {
       "extractionState": "manual",
       "localizations": {
-        "en": {
+        "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "%@ unassigned you from"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ vous a retiré(e) de"
+            "value": "ألغى %@ تعيينك من"
           }
         },
         "de": {
@@ -1738,10 +1875,64 @@
             "value": "%@ hat dich abgemeldet von"
           }
         },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ unassigned you from"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ unassigned you from"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ unassigned you from"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ unassigned you from"
+          }
+        },
         "es": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ te desasignó de"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ te desasignó de"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ vous a retiré(e) de"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ vous a retiré(e) de"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ ने आपको असाइन करना रद्द कर दिया"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ ti ha rimosso dall'assegnazione"
           }
         },
         "ja": {
@@ -1750,22 +1941,52 @@
             "value": "%@があなたの割り当てを解除しました"
           }
         },
-        "pt": {
+        "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "%@ desatribuiu você de"
-          }
-        },
-        "ar": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ألغى %@ تعيينك من"
+            "value": "%@님이 귀하에게 할당된 것을 취소했습니다"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ heeft je verwijderd van"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ cofnął Twoje przypisanie"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ desatribuiu você de"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ desatribuiu você de"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ desatribuiu você de"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ tog bort din tilldelning"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ sizi atamasından kaldırdı"
           }
         },
         "zh-Hans": {
@@ -1779,100 +2000,16 @@
             "state": "translated",
             "value": "%@ 取消了您的任務分派"
           }
-        },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ ti ha rimosso dall'assegnazione"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@님이 귀하에게 할당된 것을 취소했습니다"
-          }
-        },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ tog bort din tilldelning"
-          }
-        },
-        "hi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ ने आपको असाइन करना रद्द कर दिया"
-          }
-        },
-        "pl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ cofnął Twoje przypisanie"
-          }
-        },
-        "tr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ sizi atamasından kaldırdı"
-          }
-        },
-        "en-AU": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ unassigned you from"
-          }
-        },
-        "en-IN": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ unassigned you from"
-          }
-        },
-        "en-GB": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ unassigned you from"
-          }
-        },
-        "es-419": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ te desasignó de"
-          }
-        },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ desatribuiu você de"
-          }
-        },
-        "pt-PT": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ desatribuiu você de"
-          }
-        },
-        "fr-CA": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ vous a retiré(e) de"
-          }
         }
       }
     },
     "notificationTitlePersonUncompleted": {
       "extractionState": "manual",
       "localizations": {
-        "en": {
+        "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "%@ uncompleted"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ marqué(e) comme non terminé(e)"
+            "value": "تم إلغاء اكتمال %@"
           }
         },
         "de": {
@@ -1881,10 +2018,64 @@
             "value": "%@ als unvollständig markiert"
           }
         },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ uncompleted"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ uncompleted"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ uncompleted"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ uncompleted"
+          }
+        },
         "es": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ marcado como no completado"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ marcado como no completado"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ marqué(e) comme non terminé(e)"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ marqué(e) comme non terminé(e)"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ ने अपूर्ण किया"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ ha annullato il completamento"
           }
         },
         "ja": {
@@ -1893,22 +2084,52 @@
             "value": "%@が未完了に戻されました"
           }
         },
-        "pt": {
+        "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "%@ marcado como não concluído"
-          }
-        },
-        "ar": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "تم إلغاء اكتمال %@"
+            "value": "%@님이 완료 취소했습니다"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ gemarkeerd als niet voltooid"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ cofnął ukończenie"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ marcado como não concluído"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ marcado como não concluído"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ marcado como não concluído"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ avslutade inte"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ tamamlanmadı"
           }
         },
         "zh-Hans": {
@@ -1922,100 +2143,16 @@
             "state": "translated",
             "value": "%@ 已取消完成"
           }
-        },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ ha annullato il completamento"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@님이 완료 취소했습니다"
-          }
-        },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ avslutade inte"
-          }
-        },
-        "hi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ ने अपूर्ण किया"
-          }
-        },
-        "pl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ cofnął ukończenie"
-          }
-        },
-        "tr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ tamamlanmadı"
-          }
-        },
-        "en-AU": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ uncompleted"
-          }
-        },
-        "en-IN": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ uncompleted"
-          }
-        },
-        "en-GB": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ uncompleted"
-          }
-        },
-        "es-419": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ marcado como no completado"
-          }
-        },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ marcado como não concluído"
-          }
-        },
-        "pt-PT": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ marcado como não concluído"
-          }
-        },
-        "fr-CA": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ marqué(e) comme non terminé(e)"
-          }
         }
       }
     },
     "notificationTitleStartBy": {
       "extractionState": "manual",
       "localizations": {
-        "en": {
+        "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "Reminder to start"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Rappel pour commencer"
+            "value": "تذكير بالبدء"
           }
         },
         "de": {
@@ -2024,10 +2161,64 @@
             "value": "Erinnerung zum Beginn"
           }
         },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reminder to start"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reminder to start"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reminder to start"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reminder to start"
+          }
+        },
         "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Recordatorio para comenzar"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recordatorio para comenzar"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rappel pour commencer"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rappel pour commencer"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "शुरू करने के लिए रिमाइंडर"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Promemoria per iniziare"
           }
         },
         "ja": {
@@ -2036,22 +2227,52 @@
             "value": "開始リマインダー"
           }
         },
-        "pt": {
+        "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "Lembrete para começar"
-          }
-        },
-        "ar": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "تذكير بالبدء"
+            "value": "시작하라는 알림"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
             "value": "Herinnering om te beginnen"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Przypomnienie, aby zacząć"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lembrete para começar"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lembrete para começar"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lembrete para começar"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Påminnelse att starta"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Başlama hatırlatması"
           }
         },
         "zh-Hans": {
@@ -2064,84 +2285,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "開始提醒"
-          }
-        },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Promemoria per iniziare"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "시작하라는 알림"
-          }
-        },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Påminnelse att starta"
-          }
-        },
-        "hi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "शुरू करने के लिए रिमाइंडर"
-          }
-        },
-        "pl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Przypomnienie, aby zacząć"
-          }
-        },
-        "tr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Başlama hatırlatması"
-          }
-        },
-        "en-AU": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Reminder to start"
-          }
-        },
-        "en-IN": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Reminder to start"
-          }
-        },
-        "en-GB": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Reminder to start"
-          }
-        },
-        "es-419": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Recordatorio para comenzar"
-          }
-        },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lembrete para começar"
-          }
-        },
-        "pt-PT": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lembrete para começar"
-          }
-        },
-        "fr-CA": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Rappel pour commencer"
           }
         }
       }
