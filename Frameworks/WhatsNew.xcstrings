@@ -1,0 +1,2580 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "appClipsSubtitle": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Need to assign tasks to someone who doesn’t use Karo? With App Clips, they can view and interact with tasks instantly, no app download required!"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "هل تحتاج إلى تعيين مهام لشخص لا يستخدم كارو؟ مع App Clips، يمكنهم عرض والتفاعل مع المهام على الفور، بدون تحميل التطبيق!"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Müssen Sie Aufgaben an jemanden zuweisen, der Karo nicht nutzt? Mit App Clips können sie Aufgaben sofort einsehen und damit interagieren, ohne die App herunterladen zu müssen!"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¿Necesitas asignar tareas a alguien que no usa Karo? Con App Clips, pueden ver e interactuar con tareas al instante, ¡sin necesidad de descargar la aplicación!"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Besoin d'attribuer des tâches à quelqu'un qui n'utilise pas Karo ? Avec App Clips, ils peuvent afficher et interagir avec des tâches instantanément, sans télécharger l'application !"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Karoを使用していない人にタスクを割り当てる必要がありますか？App Clipsを使えば、アプリをダウンロードせずに、すぐにタスクを表示して操作できます！"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Moet je taken toewijzen aan iemand die Karo niet gebruikt? Met App Clips kunnen ze taken direct bekijken en ermee werken, zonder de app te hoeven downloaden!"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Precisa atribuir tarefas a alguém que não usa Karo? Com App Clips, eles podem ver e interagir com tarefas instantaneamente, sem precisar baixar o aplicativo!"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "需要给不使用Karo的人分配任务吗？使用App Clips，他们可以立即查看和交互任务，无需下载应用！"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "需要給不使用Karo的人分配任務嗎？使用App Clips，他們可以立即查看和互動任務，無需下載應用！"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hai bisogno di assegnare attività a qualcuno che non usa Karo? Con App Clips, possono visualizzare e interagire con le attività all'istante, senza dover scaricare l'app!"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Karo를 사용하지 않는 사람에게 작업을 할당해야 하나요? App Clips를 통해 앱을 다운로드하지 않고도 즉시 작업을 보고 상호 작용할 수 있습니다!"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Behöver du tilldela uppgifter till någon som inte använder Karo? Med App Clips kan de visa och interagera med uppgifter direkt, utan att behöva ladda ner appen!"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "क्या आपको किसी ऐसे व्यक्ति को कार्य असाइन करने की आवश्यकता है जो कारो का उपयोग नहीं करता? ऐप क्लिप्स के साथ, वे बिना ऐप डाउनलोड किए तुरंत कार्यों को देख और उनके साथ बातचीत कर सकते हैं!"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Potrzebujesz przypisać zadania osobie, która nie korzysta z Karo? Dzięki App Clips mogą natychmiast wyświetlać i wchodzić w interakcje z zadaniami bez konieczności pobierania aplikacji!"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Karo kullanmayan birine görev atamak mı gerekiyor? App Clips ile, uygulamayı indirmeden anında görevleri görüntüleyebilir ve onlarla etkileşime girebilirler!"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Need to assign tasks to someone who doesn’t use Karo? With App Clips, they can view and interact with tasks instantly, no app download required!"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Need to assign tasks to someone who doesn’t use Karo? With App Clips, they can view and interact with tasks instantly, no app download required!"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Need to assign tasks to someone who doesn’t use Karo? With App Clips, they can view and interact with tasks instantly, no app download required!"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¿Necesitas asignar tareas a alguien que no usa Karo? Con App Clips, pueden ver e interactuar con tareas al instante, ¡sin necesidad de descargar la aplicación!"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Precisa atribuir tarefas a alguém que não usa Karo? Com App Clips, eles podem ver e interagir com tarefas instantaneamente, sem precisar baixar o aplicativo!"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Precisa atribuir tarefas a alguém que não usa Karo? Com App Clips, eles podem ver e interagir com tarefas instantaneamente, sem precisar baixar o aplicativo!"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Besoin d'attribuer des tâches à quelqu'un qui n'utilise pas Karo ? Avec App Clips, ils peuvent afficher et interagir avec des tâches instantanément, sans télécharger l'application !"
+          }
+        }
+      }
+    },
+    "appClipsTitle": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Clips"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مقاطع التطبيق"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App-Clips"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clips de aplicación"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clips d'application"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アプリクリップ"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App-clips"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clipes de app"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "应用剪辑"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "應用剪輯"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clip app"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "앱 클립"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Appklipp"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ऐप क्लिप्स"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Klipy aplikacji"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uygulama Klipleri"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Clips"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Clips"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Clips"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clips de aplicación"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clipes de app"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clipes de app"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clips d'application"
+          }
+        }
+      }
+    },
+    "endsInTimer": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ends in:"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ينتهي في:"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Endet in:"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Termina en:"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se termine dans :"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "終了まで:"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eindigt over:"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Termina em:"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "结束于:"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "結束於:"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Termina tra:"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "종료까지:"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Slutar om:"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "समाप्त होता है:"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kończy się za:"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bitiş süresi:"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ends in:"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ends in:"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ends in:"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Termina en:"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Termina em:"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Termina em:"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se termine dans :"
+          }
+        }
+      }
+    },
+    "familySharingSubtitle": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "With Apple’s Family Sharing, share your Karo Pro plan with up to 5 family members for the cost of just 2! One plan, one payment—everyone benefits!"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مع المشاركة العائلية من Apple، شارك خطة Karo Pro مع ما يصل إلى 5 أفراد عائلة مقابل تكلفة 2 فقط! خطة واحدة، دفعة واحدة - الجميع يستفيد!"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mit Apples Familienfreigabe teilen Sie Ihren Karo Pro-Plan mit bis zu 5 Familienmitgliedern zum Preis von nur 2! Ein Plan, eine Zahlung - alle profitieren!"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Con la Compartición Familiar de Apple, ¡comparte tu plan Karo Pro con hasta 5 miembros de la familia por el costo de solo 2! Un plan, un pago: ¡todos se benefician!"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avec le Partage Familial d'Apple, partagez votre forfait Karo Pro avec jusqu'à 5 membres de votre famille pour le prix de seulement 2 ! Un seul plan, un seul paiement - tout le monde en profite !"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Appleのファミリー共有を使用すれば、わずか2人分の費用で最大5人の家族メンバーとKaro Proプランを共有できます！1つのプラン、1回の支払いで、全員が恩恵を受けられます！"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Met Apple's Gezinsdeling deel je je Karo Pro-plan met maximaal 5 gezinsleden voor de prijs van maar 2! Één plan, één betaling - iedereen profiteert!"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Com o Compartilhamento Familiar da Apple, compartilhe seu plano Karo Pro com até 5 membros da família pelo custo de apenas 2! Um plano, um pagamento - todos se beneficiam!"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通过Apple家庭共享，以仅2个人的成本与最多5个家庭成员共享您的Karo Pro计划！一个计划，一次付款 - 人人受益！"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "透過Apple家庭共享，以僅2個人的成本與最多5個家庭成員共享您的Karo Pro計劃！一個計劃，一次付款 - 人人受益！"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Con la Condivisione Famiglia di Apple, condividi il tuo piano Karo Pro con fino a 5 membri della famiglia al costo di soli 2! Un piano, un pagamento - tutti beneficiano!"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple의 가족 공유로, 단 2명의 비용으로 최대 5명의 가족 구성원과 Karo Pro 플랜을 공유하세요! 한 플랜, 한 번의 결제 - 모두가 혜택을 받습니다!"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Med Apples Familjedel kan du dela din Karo Pro-plan med upp till 5 familjemedlemmar för kostnaden av bara 2! Ett abonnemang, en betalning - alla får nytta!"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple के फैमिली शेयरिंग के साथ, अपने कारो प्रो प्लान को केवल 2 के खर्च पर 5 परिवार के सदस्यों के साथ साझा करें! एक प्लान, एक भुगतान - सभी को लाभ!"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dzięki Rodzinnemu Udostępnianiu Apple możesz udostępnić swój plan Karo Pro nawet 5 członkom rodziny za cenę zaledwie 2! Jeden plan, jedna płatność - każdy korzysta!"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple'ın Aile Paylaşımı ile, Karo Pro planınızı sadece 2 kişinin maliyetine kadar 5 aile üyesiyle paylaşın! Tek bir plan, tek bir ödeme - herkes kazanır!"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "With Apple’s Family Sharing, share your Karo Pro plan with up to 5 family members for the cost of just 2! One plan, one payment—everyone benefits!"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "With Apple’s Family Sharing, share your Karo Pro plan with up to 5 family members for the cost of just 2! One plan, one payment—everyone benefits!"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "With Apple’s Family Sharing, share your Karo Pro plan with up to 5 family members for the cost of just 2! One plan, one payment—everyone benefits!"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Con la Compartición Familiar de Apple, ¡comparte tu plan Karo Pro con hasta 5 miembros de la familia por el costo de solo 2! Un plan, un pago: ¡todos se benefician!"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Com o Compartilhamento Familiar da Apple, compartilhe seu plano Karo Pro com até 5 membros da família pelo custo de apenas 2! Um plano, um pagamento - todos se beneficiam!"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Com o Compartilhamento Familiar da Apple, compartilhe seu plano Karo Pro com até 5 membros da família pelo custo de apenas 2! Um plano, um pagamento - todos se beneficiam!"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avec le Partage Familial d'Apple, partagez votre forfait Karo Pro avec jusqu'à 5 membres de votre famille pour le prix de seulement 2 ! Un seul plan, un seul paiement - tout le monde en profite !"
+          }
+        }
+      }
+    },
+    "familySharingTitle": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Family Sharing for Plans"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "المشاركة العائلية للخطط"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Familienfreigabe für Pläne"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Compartición Familiar para Planes"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Partage Familial pour les Forfaits"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "プランのファミリー共有"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gezinsdeling voor Plannen"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Compartilhamento Familiar para Planos"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "计划的家庭共享"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "計劃的家庭共享"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Condivisione Famiglia per Piani"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "플랜을 위한 가족 공유"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Familjedel för abonnemang"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "योजनाओं के लिए फैमिली शेयरिंग"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rodzinne udostępnianie planów"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Planlar için Aile Paylaşımı"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Family Sharing for Plans"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Family Sharing for Plans"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Family Sharing for Plans"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Compartición Familiar para Planes"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Compartilhamento Familiar para Planos"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Compartilhamento Familiar para Planos"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Partage Familial pour les Forfaits"
+          }
+        }
+      }
+    },
+    "macAppSubtitle": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beautifully crafted built natively for macOS. Delegating and managing your tasks on your Mac has never been easier!"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مصمم بشكل جميل ومبني بشكل أصلي لـ macOS. تفويض وإدارة المهام على جهاز Mac لم يكن أسهل من أي وقت مضى!"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wunderschön entwickelt, nativ für macOS. Aufgaben auf Ihrem Mac zu delegieren und zu verwalten war noch nie so einfach!"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diseñado con belleza y desarrollado de forma nativa para macOS. ¡Delegar y administrar tus tareas en tu Mac nunca ha sido tan fácil!"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Magnifiquement conçu et développé nativement pour macOS. Déléguer et gérer vos tâches sur votre Mac n'a jamais été aussi simple !"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOSのために美しく、ネイティブに構築されました。Macでのタスクの委任と管理が、これまでになく簡単になりました！"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prachtig ontworpen en native gebouwd voor macOS. Taken delegeren en beheren op je Mac is nog nooit zo gemakkelijk geweest!"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lindamente criado e desenvolvido nativamente para macOS. Delegar e gerenciar suas tarefas no seu Mac nunca foi tão fácil!"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "为macOS精美原生打造。在Mac上委派和管理任务从未如此简单！"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "為macOS精美原生打造。在Mac上委派和管理任務從未如此簡單！"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Splendidamente realizzato e sviluppato nativamente per macOS. Delegare e gestire le tue attività sul tuo Mac non è mai stato così facile!"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS를 위해 아름답게 기본으로 제작되었습니다. Mac에서 작업을 위임하고 관리하는 것이 이렇게 쉬운 적은 없었습니다!"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vackert utformat och byggt natives för macOS. Att delegera och hantera dina uppgifter på din Mac har aldrig varit enklare!"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS के लिए सुंदरता से निर्मित और मूल रूप से बनाया गया। अपने मैक पर कार्यों को सौंपना और प्रबंधित करना कभी इतना आसान नहीं था!"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pięknie wykonane i natywnie zbudowane dla macOS. Delegowanie i zarządzanie zadaniami na Maku nigdy nie było tak proste!"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS için güzelce tasarlanmış ve yerel olarak geliştirilmiş. Mac'inizde görevleri devretmek ve yönetmek hiç bu kadar kolay olmamıştı!"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beautifully crafted built natively for macOS. Delegating and managing your tasks on your Mac has never been easier!"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beautifully crafted built natively for macOS. Delegating and managing your tasks on your Mac has never been easier!"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beautifully crafted built natively for macOS. Delegating and managing your tasks on your Mac has never been easier!"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diseñado con belleza y desarrollado de forma nativa para macOS. ¡Delegar y administrar tus tareas en tu Mac nunca ha sido tan fácil!"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lindamente criado e desenvolvido nativamente para macOS. Delegar e gerenciar suas tarefas no seu Mac nunca foi tão fácil!"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lindamente criado e desenvolvido nativamente para macOS. Delegar e gerenciar suas tarefas no seu Mac nunca foi tão fácil!"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Magnifiquement conçu et développé nativement pour macOS. Déléguer et gérer vos tâches sur votre Mac n'a jamais été aussi simple !"
+          }
+        }
+      }
+    },
+    "macAppTitle": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "New Mac App"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تطبيق Mac الجديد"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Neue Mac-App"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nueva aplicación para Mac"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nouvelle application Mac"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "新しいMacアプリ"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nieuwe Mac-app"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Novo Aplicativo para Mac"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "新的Mac应用"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "新的Mac應用"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nuova app per Mac"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "새로운 Mac 앱"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ny Mac-app"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "नया मैक ऐप"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nowa aplikacja na Maca"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yeni Mac Uygulaması"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "New Mac App"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "New Mac App"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "New Mac App"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nueva aplicación para Mac"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Novo Aplicativo para Mac"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Novo Aplicativo para Mac"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nouvelle application Mac"
+          }
+        }
+      }
+    },
+    "taskDetailSubtitle": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Instantly know if a task is for you or one you’ve delegated. Enjoy delightful animations and clearer buttons designed for better usability and focus."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "اعرف على الفور ما إذا كانت المهمة لك أو مهمة فوضتها. استمتع بالرسوم المتحركة الرائعة وأزرار أكثر وضوحًا مصممة لتحسين سهولة الاستخدام والتركيز."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erkennen Sie sofort, ob eine Aufgabe für Sie ist oder eine, die Sie delegiert haben. Genießen Sie entzückende Animationen und klarere Schaltflächen, die für bessere Benutzerfreundlichkeit und Fokus entwickelt wurden."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sepa instantáneamente si una tarea es para usted o una que ha delegado. Disfrute de animaciones encantadoras y botones más claros diseñados para una mejor usabilidad y enfoque."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sachez instantanément si une tâche vous est destinée ou si vous l'avez déléguée. Profitez d'animations délicieuses et de boutons plus clairs conçus pour une meilleure utilisation et une concentration accrue."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "タスクが自分のものか、委任したものかを即座に把握できます。使いやすさと集中力を高めるために設計された、楽しいアニメーションとより明確なボタンをお楽しみください。"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weet direct of een taak voor u is of een die u heeft gedelegeerd. Geniet van heerlijke animaties en duidelijkere knoppen die zijn ontworpen voor betere bruikbaarheid en focus."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Saiba instantaneamente se uma tarefa é para você ou uma que você delegou. Desfrute de animações encantadoras e botões mais claros projetados para melhor usabilidade e foco."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "立即知道任务是针对您的还是您已委派的。享受为提高可用性和专注度而设计的令人愉悦的动画和更清晰的按钮。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "立即知道任務是針對您的還是您已委派的。享受為提高可用性和專注度而設計的令人愉悅的動畫和更清晰的按鈕。"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scopri immediatamente se un'attività è per te o che hai delegato. Goditi deliziose animazioni e pulsanti più chiari progettati per una migliore usabilità e concentrazione."
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "작업이 당신을 위한 것인지 또는 위임한 작업인지 즉시 알 수 있습니다. 더 나은 사용성과 집중력을 위해 설계된 즐거운 애니메이션과 더 명확한 버튼을 즐겨보세요."
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Veta direkt om en uppgift är för dig eller en du har delegerat. Njut av underbart animationer och tydligare knappar utformade för bättre användbarhet och fokus."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "तुरंत पता करें कि एक कार्य आपके लिए है या एक जिसे आपने सौंपा है। बेहतर उपयोगिता और फोकस के लिए डिज़ाइन किए गए मनमोहक एनिमेशन और स्पष्ट बटन का आनंद लें।"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Natychmiast wiedz, czy zadanie jest dla Ciebie, czy zostało przez Ciebie delegowane. Ciesz się zachwycającymi animacjami i jaśniejszymi przyciskami zaprojektowanymi dla lepszej użyteczności i koncentracji."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bir görevin size mi yoksa devrettiğiniz bir görev mi olduğunu anında bilin. Daha iyi kullanılabilirlik ve odaklanma için tasarlanmış keyifli animasyonlar ve daha net düğmelerin keyfini çıkarın."
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Instantly know if a task is for you or one you’ve delegated. Enjoy delightful animations and clearer buttons designed for better usability and focus."
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Instantly know if a task is for you or one you’ve delegated. Enjoy delightful animations and clearer buttons designed for better usability and focus."
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Instantly know if a task is for you or one you’ve delegated. Enjoy delightful animations and clearer buttons designed for better usability and focus."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sepa instantáneamente si una tarea es para usted o una que ha delegado. Disfrute de animaciones encantadoras y botones más claros diseñados para una mejor usabilidad y enfoque."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Saiba instantaneamente se uma tarefa é para você ou uma que você delegou. Desfrute de animações encantadoras e botões mais claros projetados para melhor usabilidade e foco."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Saiba instantaneamente se uma tarefa é para você ou uma que você delegou. Desfrute de animações encantadoras e botões mais claros projetados para melhor usabilidade e foco."
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sachez instantanément si une tâche vous est destinée ou si vous l'avez déléguée. Profitez d'animations délicieuses et de boutons plus clairs conçus pour une meilleure utilisation et une concentration accrue."
+          }
+        }
+      }
+    },
+    "taskDetailTitle": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Redesigned Task Detail Screen"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "شاشة تفاصيل المهمة المعاد تصميمها"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Neu gestalteter Aufgabendetailbildschirm"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pantalla de detalles de tareas rediseñada"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Écran de détails de tâches repensé"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "タスク詳細画面のリデザイン"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opnieuw ontworpen taakdetailscherm"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tela de Detalhes da Tarefa Redesenhada"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重新设计的任务详情屏幕"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重新設計的任務詳情螢幕"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schermata dei dettagli dell'attività ridisegnata"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "재설계된 작업 세부 정보 화면"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Omdesignad skärm för aktivitetsdetaljer"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "पुनर्डिज़ाइन की गई कार्य विवरण स्क्रीन"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Przeprojektowany ekran szczegółów zadania"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yeniden Tasarlanan Görev Detay Ekranı"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Redesigned Task Detail Screen"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Redesigned Task Detail Screen"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Redesigned Task Detail Screen"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pantalla de detalles de tareas rediseñada"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tela de Detalhes da Tarefa Redesenhada"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tela de Detalhes da Tarefa Redesenhada"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Écran de détails de tâches repensé"
+          }
+        }
+      }
+    },
+    "whatsappSubtitle": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Our AI-powered WhatsApp chatbot lets you create tasks instantly. It can even detect dates and set reminders, making task creation effortless."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "يسمح روبوت الدردشة على WhatsApp المدعوم بالذكاء الاصطناعي بإنشاء المهام على الفور. يمكنه حتى اكتشاف التواريخ وتعيين التذكيرات، مما يجعل إنشاء المهام سهلًا للغاية."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unser KI-gestützter WhatsApp-Chatbot ermöglicht es Ihnen, Aufgaben sofort zu erstellen. Er kann sogar Termine erkennen und Erinnerungen setzen und macht die Aufgabenerstellung mühelos."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nuestro chatbot de WhatsApp con inteligencia artificial te permite crear tareas al instante. Incluso puede detectar fechas y configurar recordatorios, haciendo que la creación de tareas sea muy sencilla."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notre chatbot WhatsApp alimenté par l'IA vous permet de créer des tâches instantanément. Il peut même détecter les dates et définir des rappels, rendant la création de tâches sans effort."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AIを搭載したWhatsAppチャットボットにより、タスクをすぐに作成できます。日付を検出し、リマインダーを設定することもでき、タスク作成を楽にします。"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Onze AI-gestuurde WhatsApp-chatbot stelt u in staat taken direct aan te maken. Hij kan zelfs datums detecteren en herinneringen instellen, waardoor het aanmaken van taken moeiteloos wordt."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nosso chatbot do WhatsApp com IA permite que você crie tarefas instantaneamente. Ele pode até detectar datas e definir lembretes, tornando a criação de tarefas sem esforço."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "我们的AI支持的WhatsApp聊天机器人可让您立即创建任务。它甚至可以检测日期并设置提醒，使任务创建变得轻而易举。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "我們的AI支持的WhatsApp聊天機器人可讓您立即創建任務。它甚至可以檢測日期並設置提醒，使任務創建變得輕而易舉。"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Il nostro chatbot WhatsApp supportato dall'IA ti permette di creare attività istantaneamente. Può persino rilevare le date e impostare promemoria, rendendo la creazione di attività estremamente semplice."
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AI 기반 WhatsApp 챗봇을 통해 즉시 작업을 생성할 수 있습니다. 날짜를 감지하고 미리 알림을 설정할 수 있어 작업 생성이 매우 간편합니다."
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vår AI-drivna WhatsApp-chattbot låter dig skapa uppgifter direkt. Den kan till och med identifiera datum och ställa in påminnelser, vilket gör skapandet av uppgifter enkelt."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "हमारा AI-संचालित WhatsApp चैटबॉट आपको तुरंत कार्य बनाने की अनुमति देता है। यह तिथियों का पता लगा सकता है और याद दिलाने वाले संदेश भी सेट कर सकता है, जिससे कार्य निर्माण बिल्कुल आसान हो जाता है।"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nasz obsługiwany przez AI chatbot WhatsApp pozwala natychmiast tworzyć zadania. Może nawet wykrywać daty i ustawiać przypomnienia, dzięki czemu tworzenie zadań jest bezwysiłkowe."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AI destekli WhatsApp sohbet robotu, görevleri anında oluşturmanıza izin verir. Tarih algılayabilir ve hatırlatıcılar ayarlayabilir, böylece görev oluşturma zahmetsiz hale gelir."
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Our AI-powered WhatsApp chatbot lets you create tasks instantly. It can even detect dates and set reminders, making task creation effortless."
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Our AI-powered WhatsApp chatbot lets you create tasks instantly. It can even detect dates and set reminders, making task creation effortless."
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Our AI-powered WhatsApp chatbot lets you create tasks instantly. It can even detect dates and set reminders, making task creation effortless."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nuestro chatbot de WhatsApp con inteligencia artificial te permite crear tareas al instante. Incluso puede detectar fechas y configurar recordatorios, haciendo que la creación de tareas sea muy sencilla."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nosso chatbot do WhatsApp com IA permite que você crie tarefas instantaneamente. Ele pode até detectar datas e definir lembretes, tornando a criação de tarefas sem esforço."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nosso chatbot do WhatsApp com IA permite que você crie tarefas instantaneamente. Ele pode até detectar datas e definir lembretes, tornando a criação de tarefas sem esforço."
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notre chatbot WhatsApp alimenté par l'IA vous permet de créer des tâches instantanément. Il peut même détecter les dates et définir des rappels, rendant la création de tâches sans effort."
+          }
+        }
+      }
+    },
+    "whatsappTitle": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tasks From WhatsApp"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مهام من WhatsApp"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aufgaben von WhatsApp"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tareas desde WhatsApp"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tâches depuis WhatsApp"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WhatsAppからのタスク"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Taken van WhatsApp"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tarefas do WhatsApp"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "来自WhatsApp的任务"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "來自WhatsApp的任務"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Attività da WhatsApp"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WhatsApp에서의 작업"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uppgifter från WhatsApp"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WhatsApp से कार्य"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zadania z WhatsApp"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WhatsApp'tan Görevler"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tasks From WhatsApp"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tasks From WhatsApp"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tasks From WhatsApp"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tareas desde WhatsApp"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tarefas do WhatsApp"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tarefas do WhatsApp"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tâches depuis WhatsApp"
+          }
+        }
+      }
+    },
+    "whatsNew": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "What’s New"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الجديد"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Neuigkeiten"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Novedades"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quoi de neuf"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "新着情報"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wat is nieuw"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Novidades"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "新功能"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "新功能"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Novità"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "새로운 기능"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nyheter"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "नया क्या है"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Co nowego"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yenilikler"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "What’s New"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "What’s New"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "What’s New"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Novedades"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Novidades"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Novidades"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quoi de neuf"
+          }
+        }
+      }
+    },
+    "whatsNewFeedback": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Feedback"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "التعليقات"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Feedback"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Comentarios"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Commentaires"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "フィードバック"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Feedback"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Comentários"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "反馈"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "回饋"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Feedback"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "피드백"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Feedback"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "फीडबैक"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opinie"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geri Bildirim"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Feedback"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Feedback"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Feedback"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Comentarios"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Comentários"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Comentários"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Commentaires"
+          }
+        }
+      }
+    },
+    "whatsNewFootnote": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thank you for supporting Karo! We’re a small indie team working hard to make Karo better for you. Your feedback helps us improve, and a quick rating or review on the App Store makes a big difference ❤️"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "شكرًا لدعمك كارو! نحن فريق مستقل صغير نعمل بجد لتحسين كارو من أجلك. ملاحظاتك تساعدنا على التحسن، وتقييم سريع أو مراجعة على متجر التطبيقات تحدث فرقًا كبيرًا ❤️"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Danke, dass Sie Karo unterstützen! Wir sind ein kleines Indie-Team, das hart daran arbeitet, Karo für Sie zu verbessern. Ihr Feedback hilft uns, uns zu verbessern, und eine kurze Bewertung oder Rezension im App Store macht einen großen Unterschied ❤️"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¡Gracias por apoyar a Karo! Somos un pequeño equipo independiente trabajando duro para mejorar Karo para ti. Tu retroalimentación nos ayuda a mejorar, y una calificación o reseña rápida en la App Store marca una gran diferencia ❤️"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Merci de soutenir Karo ! Nous sommes une petite équipe indépendante qui travaille dur pour améliorer Karo pour vous. Vos commentaires nous aident à progresser, et un rapide avis ou une évaluation sur l'App Store fait une grande différence ❤️"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Karoをサポートしていただき、ありがとうございます！私たちは、Karoをより良くするために懸命に努力している小さなインディーチームです。あなたのフィードバックは私たちの改善に役立ち、App Storeでの簡単な評価やレビューは大きな違いを生みます ❤️"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bedankt voor het steunen van Karo! We zijn een klein onafhankelijk team dat hard werkt om Karo voor jou beter te maken. Jouw feedback helpt ons te verbeteren, en een snelle beoordeling of review in de App Store maakt een groot verschil ❤️"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Obrigado por apoiar o Karo! Somos uma pequena equipe independente trabalhando duro para tornar o Karo melhor para você. Seus comentários nos ajudam a melhorar, e uma avaliação ou resenha rápida na App Store faz uma grande diferença ❤️"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "感谢支持Karo！我们是一个小型独立团队，正在努力为您改进Karo。您的反馈帮助我们改进，App Store上的快速评分或评论会产生很大的影响 ❤️"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "感謝支持Karo！我們是一個小型獨立團隊，正在努力為您改進Karo。您的回饋幫助我們改進，App Store上的快速評分或評論會產生很大的影響 ❤️"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grazie per supportare Karo! Siamo un piccolo team indipendente che lavora duramente per migliorare Karo per te. Il tuo feedback ci aiuta a migliorare, e una veloce valutazione o recensione sull'App Store fa una grande differenza ❤️"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Karo를 지원해주셔서 감사합니다! 우리는 Karo를 더 좋게 만들기 위해 열심히 노력하는 작은 독립 팀입니다. 귀하의 피드백은 우리가 개선하는 데 도움이 되며, App Store에서의 빠른 평가나 리뷰는 큰 차이를 만듭니다 ❤️"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tack för att du stödjer Karo! Vi är ett litet oberoende team som arbetar hårt för att göra Karo bättre för dig. Din feedback hjälper oss att förbättras, och ett snabbt betyg eller en recension på App Store gör stor skillnad ❤️"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "कारो का समर्थन करने के लिए धन्यवाद! हम एक छोटी स्वतंत्र टीम हैं जो आपके लिए कारो को बेहतर बनाने के लिए कड़ी मेहनत कर रही हैं। आपकी प्रतिक्रिया हमें सुधारने में मदद करती है, और ऐप स्टोर पर एक त्वरित रेटिंग या समीक्षा बड़ा अंतर लाती है ❤️"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dziękujemy za wsparcie Karo! Jesteśmy małym niezależnym zespołem ciężko pracującym, aby ulepszyć Karo dla Ciebie. Twoja opinia pomaga nam się doskonalić, a szybka ocena lub recenzja w App Store robi dużą różnicę ❤️"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Karo'yu desteklediğiniz için teşekkür ederiz! Karo'yu sizin için daha iyi hale getirmek için çalışan küçük bir bağımsız ekibiz. Geri bildiriminiz bize gelişmemizde yardımcı oluyor ve App Store'daki hızlı bir derecelendirme veya inceleme büyük fark yaratıyor ❤️"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thank you for supporting Karo! We’re a small indie team working hard to make Karo better for you. Your feedback helps us improve, and a quick rating or review on the App Store makes a big difference ❤️"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thank you for supporting Karo! We’re a small indie team working hard to make Karo better for you. Your feedback helps us improve, and a quick rating or review on the App Store makes a big difference ❤️"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thank you for supporting Karo! We’re a small indie team working hard to make Karo better for you. Your feedback helps us improve, and a quick rating or review on the App Store makes a big difference ❤️"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¡Gracias por apoyar a Karo! Somos un pequeño equipo independiente trabajando duro para mejorar Karo para ti. Tu retroalimentación nos ayuda a mejorar, y una calificación o reseña rápida en la App Store marca una gran diferencia ❤️"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Obrigado por apoiar o Karo! Somos uma pequena equipe independente trabalhando duro para tornar o Karo melhor para você. Seus comentários nos ajudam a melhorar, e uma avaliação ou resenha rápida na App Store faz uma grande diferença ❤️"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Obrigado por apoiar o Karo! Somos uma pequena equipe independente trabalhando duro para tornar o Karo melhor para você. Seus comentários nos ajudam a melhorar, e uma avaliação ou resenha rápida na App Store faz uma grande diferença ❤️"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Merci de soutenir Karo ! Nous sommes une petite équipe indépendante qui travaille dur pour améliorer Karo pour vous. Vos commentaires nous aident à progresser, et un rapide avis ou une évaluation sur l'App Store fait une grande différence ❤️"
+          }
+        }
+      }
+    },
+    "whatsNewRate": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rate Karo"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "قيّم كارو"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Karo bewerten"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Calificar Karo"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Noter Karo"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Karoを評価する"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Karo beoordelen"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avaliar Karo"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "评价Karo"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "評價Karo"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Valuta Karo"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Karo 평가하기"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Betygsätt Karo"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "कारो को रेट करें"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oceń Karo"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Karo'yu Değerlendir"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rate Karo"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rate Karo"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rate Karo"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Calificar Karo"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avaliar Karo"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avaliar Karo"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Noter Karo"
+          }
+        }
+      }
+    },
+    "whatsNewSaleButtonTitle": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Launch - 50%% offer"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الإطلاق - عرض 50٪"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Start - 50%% Angebot"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lanzamiento - Oferta del 50%%"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lancement - Offre de 50%%"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ローンチ - 50%%オファー"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lancering - 50%% korting"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lançamento - Oferta de 50%%"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "发布 - 50%%优惠"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "發佈 - 50%%優惠"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lancio - Offerta del 50%%"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "런칭 - 50%% 할인"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lansering - 50%% rabatt"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "लॉन्च - 50%% ऑफर"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Premiera - 50%% zniżki"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lansman - %50 indirim"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Launch - 50%% offer"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Launch - 50%% offer"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Launch - 50%% offer"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lanzamiento - Oferta del 50%%"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lançamento - Oferta de 50%%"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lançamento - Oferta de 50%%"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lancement - Offre de 50%%"
+          }
+        }
+      }
+    },
+    "whatsNewTitle": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🚀 Karo’s Biggest Update Yet – Mac app & Design Overhaul!"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🚀 أكبر تحديث لكارو حتى الآن – تطبيق ماك وإعادة تصميم شاملة!"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🚀 Karo's größtes Update bisher – Mac-App & Design-Überarbeitung!"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🚀 ¡La mayor actualización de Karo hasta ahora – Aplicación para Mac y renovación de diseño!"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🚀 La plus grande mise à jour de Karo à ce jour – Application Mac et refonte du design !"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🚀 これまでで最大のKaroアップデート – Macアプリとデザイン一新！"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🚀 Karo's grootste update tot nu toe – Mac-app & design-herziening!"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🚀 A Maior Atualização da Karo Até Agora – Aplicativo para Mac e Reformulação de Design!"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🚀 Karo迄今为止最大的更新 – Mac应用和设计革新！"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🚀 Karo迄今為止最大的更新 – Mac應用和設計革新！"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🚀 Il più grande aggiornamento di Karo finora – App Mac e restyling del design!"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🚀 카로의 최대 업데이트 – Mac 앱 및 디자인 대대적 개선!"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🚀 Karos största uppdatering hittills – Mac-app & designöversyn!"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🚀 कारो का अब तक का सबसे बड़ा अपडेट – मैक ऐप और डिजाइन में पूर्ण परिवर्तन!"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🚀 Największa aktualizacja Karo do tej pory – Aplikacja na Maca i gruntowna przebudowa designu!"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🚀 Karo'nun Şimdiye Kadarki En Büyük Güncellemesi – Mac uygulaması ve Tasarım Yenilemesi!"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🚀 Karo’s Biggest Update Yet – Mac app & Design Overhaul!"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🚀 Karo’s Biggest Update Yet – Mac app & Design Overhaul!"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🚀 Karo’s Biggest Update Yet – Mac app & Design Overhaul!"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🚀 ¡La mayor actualización de Karo hasta ahora – Aplicación para Mac y renovación de diseño!"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🚀 A Maior Atualização da Karo Até Agora – Aplicativo para Mac e Reformulação de Design!"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🚀 A Maior Atualização da Karo Até Agora – Aplicativo para Mac e Reformulação de Design!"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🚀 La plus grande mise à jour de Karo à ce jour – Application Mac et refonte du design !"
+          }
+        }
+      }
+    },
+    "whatsNewWhatsAppButtonTitle": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Try on WhatsApp"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "جرب على WhatsApp"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Auf WhatsApp ausprobieren"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Probar en WhatsApp"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Essayer sur WhatsApp"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WhatsAppで試す"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Probeer op WhatsApp"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Experimente no WhatsApp"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在WhatsApp上试用"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在WhatsApp上試用"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prova su WhatsApp"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WhatsApp에서 사용해보기"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prova på WhatsApp"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WhatsApp पर आज़माएं"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wypróbuj na WhatsApp"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WhatsApp'ta Deneyin"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Try on WhatsApp"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Try on WhatsApp"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Try on WhatsApp"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Probar en WhatsApp"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Experimente no WhatsApp"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Experimente no WhatsApp"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Essayer sur WhatsApp"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
