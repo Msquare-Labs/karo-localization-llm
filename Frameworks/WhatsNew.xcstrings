@@ -385,6 +385,48 @@
             "state": "translated",
             "value": "Yeni Noel temamızla ve yağan karla görevlerinize tatil havası katın!"
           }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bring the holidays to your tasks with our new X’mas theme, complete with falling snow!"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bring the holidays to your tasks with our new X’mas theme, complete with falling snow!"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bring the holidays to your tasks with our new X’mas theme, complete with falling snow!"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¡Dale un toque navideño a tus tareas con nuestro nuevo tema de Navidad, completo con nieve cayendo!"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Traga o espírito natalino para suas tarefas com nosso novo tema de Natal, completo com neve caindo!"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Traga o espírito natalino para suas tarefas com nosso novo tema de Natal, completo com neve caindo!"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apportez l'esprit des fêtes à vos tâches avec notre nouveau thème de Noël, avec de la neige qui tombe !"
+          }
         }
       }
     },
@@ -485,6 +527,48 @@
           "stringUnit": {
             "state": "translated",
             "value": "Karo'da kar yağsın!"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Let It Snow in Karo!"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Let It Snow in Karo!"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Let It Snow in Karo!"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¡Que nieve en Karo!"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deixe nevar no Karo!"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deixe nevar no Karo!"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Laissez la neige tomber dans Karo !"
           }
         }
       }
@@ -1302,6 +1386,48 @@
             "state": "translated",
             "value": "Tekrarlanan görevlerle rutinlerinizi düzende tutun. Kendiniz için veya tekrarlanan devredilmiş görevleriniz için günlük, haftalık veya aylık hatırlatıcılar ayarlayın."
           }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keep your routines on track with recurring tasks. Set daily, weekly, or monthly reminders for yourself, or for your repeating delegated tasks."
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keep your routines on track with recurring tasks. Set daily, weekly, or monthly reminders for yourself, or for your repeating delegated tasks."
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keep your routines on track with recurring tasks. Set daily, weekly, or monthly reminders for yourself, or for your repeating delegated tasks."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mantén tus rutinas al día con tareas recurrentes. Configura recordatorios diarios, semanales o mensuales para ti mismo o para tus tareas delegadas repetitivas."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mantenha suas rotinas em dia com tarefas recorrentes. Configure lembretes diários, semanais ou mensais para você mesmo ou para suas tarefas delegadas repetitivas."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mantenha suas rotinas em dia com tarefas recorrentes. Configure lembretes diários, semanais ou mensais para você mesmo ou para suas tarefas delegadas repetitivas."
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gardez vos routines sur la bonne voie avec des tâches récurrentes. Définissez des rappels quotidiens, hebdomadaires ou mensuels pour vous-même ou pour vos tâches déléguées répétitives."
+          }
         }
       }
     },
@@ -1402,6 +1528,48 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ayarla ve Unut"
+          }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Set It and Forget It"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Set It and Forget It"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Set It and Forget It"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Configúralo y olvídalo"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Configure e esqueça"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Configure e esqueça"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Configurez et oubliez"
           }
         }
       }
@@ -2505,6 +2673,48 @@
             "state": "translated",
             "value": "Önceden"
           }
+        },
+        "en-AU": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Previously"
+          }
+        },
+        "en-IN": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Previously"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Previously"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anteriormente"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anteriormente"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anteriormente"
+          }
+        },
+        "fr-CA": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Précédemment"
+          }
         }
       }
     },
@@ -2674,20 +2884,20 @@
         },
         "en-AU": {
           "stringUnit": {
-            "state": "needs_review",
-            "value": "Launch - 50%% offer"
+            "state": "translated",
+            "value": "Special Offer"
           }
         },
         "en-GB": {
           "stringUnit": {
-            "state": "needs_review",
-            "value": "Launch - 50%% offer"
+            "state": "translated",
+            "value": "Special Offer"
           }
         },
         "en-IN": {
           "stringUnit": {
-            "state": "needs_review",
-            "value": "Launch - 50%% offer"
+            "state": "translated",
+            "value": "Special Offer"
           }
         },
         "es": {
@@ -2698,8 +2908,8 @@
         },
         "es-419": {
           "stringUnit": {
-            "state": "needs_review",
-            "value": "Lanzamiento - Oferta del 50%%"
+            "state": "translated",
+            "value": "Oferta especial"
           }
         },
         "fr": {
@@ -2710,8 +2920,8 @@
         },
         "fr-CA": {
           "stringUnit": {
-            "state": "needs_review",
-            "value": "Lancement - Offre de 50%%"
+            "state": "translated",
+            "value": "Offre spéciale"
           }
         },
         "hi": {
@@ -2758,14 +2968,14 @@
         },
         "pt-BR": {
           "stringUnit": {
-            "state": "needs_review",
-            "value": "Lançamento - Oferta de 50%%"
+            "state": "translated",
+            "value": "Oferta especial"
           }
         },
         "pt-PT": {
           "stringUnit": {
-            "state": "needs_review",
-            "value": "Lançamento - Oferta de 50%%"
+            "state": "translated",
+            "value": "Oferta especial"
           }
         },
         "sv": {
@@ -2817,20 +3027,20 @@
         },
         "en-AU": {
           "stringUnit": {
-            "state": "needs_review",
-            "value": "🚀 Karo’s Biggest Update Yet – Mac app & Design Overhaul!"
+            "state": "translated",
+            "value": "🎄Recurring Tasks & New Festive Theme"
           }
         },
         "en-GB": {
           "stringUnit": {
-            "state": "needs_review",
-            "value": "🚀 Karo’s Biggest Update Yet – Mac app & Design Overhaul!"
+            "state": "translated",
+            "value": "🎄Recurring Tasks & New Festive Theme"
           }
         },
         "en-IN": {
           "stringUnit": {
-            "state": "needs_review",
-            "value": "🚀 Karo’s Biggest Update Yet – Mac app & Design Overhaul!"
+            "state": "translated",
+            "value": "🎄Recurring Tasks & New Festive Theme"
           }
         },
         "es": {
@@ -2841,8 +3051,8 @@
         },
         "es-419": {
           "stringUnit": {
-            "state": "needs_review",
-            "value": "🚀 ¡La mayor actualización de Karo hasta ahora – Aplicación para Mac y renovación de diseño!"
+            "state": "translated",
+            "value": "🎄Tareas recurrentes y nuevo tema festivo"
           }
         },
         "fr": {
@@ -2853,8 +3063,8 @@
         },
         "fr-CA": {
           "stringUnit": {
-            "state": "needs_review",
-            "value": "🚀 La plus grande mise à jour de Karo à ce jour – Application Mac et refonte du design !"
+            "state": "translated",
+            "value": "🎄Tâches récurrentes et nouveau thème festif"
           }
         },
         "hi": {
@@ -2901,14 +3111,14 @@
         },
         "pt-BR": {
           "stringUnit": {
-            "state": "needs_review",
-            "value": "🚀 A Maior Atualização da Karo Até Agora – Aplicativo para Mac e Reformulação de Design!"
+            "state": "translated",
+            "value": "🎄Tarefas recorrentes e novo tema festivo"
           }
         },
         "pt-PT": {
           "stringUnit": {
-            "state": "needs_review",
-            "value": "🚀 A Maior Atualização da Karo Até Agora – Aplicativo para Mac e Reformulação de Design!"
+            "state": "translated",
+            "value": "🎄Tarefas recorrentes e novo tema festivo"
           }
         },
         "sv": {
