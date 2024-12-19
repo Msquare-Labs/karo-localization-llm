@@ -13,7 +13,9 @@ def is_translation_missing(translation):
         return True
     if isinstance(translation, dict):
         if 'stringUnit' in translation:
-            return translation['stringUnit'].get('value', '') == ''
+            # Check for empty value or needs_review state
+            return (translation['stringUnit'].get('value', '') == '' or 
+                   translation['stringUnit'].get('state') == 'needs_review')
         elif 'variations' in translation:
             return all(is_translation_missing(var) for var in translation['variations'].get('plural', {}).values())
     return False

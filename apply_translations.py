@@ -41,21 +41,69 @@ def update_xcstrings_with_translations(xcstrings_folder):
                 # Handle both original and new format
                 if 'missing_translations' in translations_data:
                     for lang, translation in translations_data['missing_translations'].items():
-                        modified_xcstrings[filename]['strings'][string_key]['localizations'][lang] = {
-                            "stringUnit": {
-                                "state": "translated",
-                                "value": translation
+                        # Check if source has variations structure
+                        source_entry = modified_xcstrings[filename]['strings'][string_key]['localizations'].get('en', {})
+                        if 'variations' in source_entry:
+                            # Mirror the English structure with variations
+                            modified_xcstrings[filename]['strings'][string_key]['localizations'][lang] = {
+                                "variations": {
+                                    "plural": {
+                                        "one": {
+                                            "stringUnit": {
+                                                "state": "translated",
+                                                "value": translation["one"]
+                                            }
+                                        },
+                                        "other": {
+                                            "stringUnit": {
+                                                "state": "translated",
+                                                "value": translation["other"]
+                                            }
+                                        }
+                                    }
+                                }
                             }
-                        }
-                else:
-                    for lang, translation in translations_data.items():
-                        if lang != 'en':  # Skip English as it's not a translation
+                        else:
+                            # Regular translation without variations
                             modified_xcstrings[filename]['strings'][string_key]['localizations'][lang] = {
                                 "stringUnit": {
                                     "state": "translated",
                                     "value": translation
                                 }
                             }
+                else:
+                    for lang, translation in translations_data.items():
+                        if lang != 'en':  # Skip English as it's not a translation
+                            # Check if source has variations structure
+                            source_entry = modified_xcstrings[filename]['strings'][string_key]['localizations'].get('en', {})
+                            if 'variations' in source_entry:
+                                # Mirror the English structure with variations
+                                modified_xcstrings[filename]['strings'][string_key]['localizations'][lang] = {
+                                    "variations": {
+                                        "plural": {
+                                            "one": {
+                                                "stringUnit": {
+                                                    "state": "translated",
+                                                    "value": translation["one"]
+                                                }
+                                            },
+                                            "other": {
+                                                "stringUnit": {
+                                                    "state": "translated",
+                                                    "value": translation["other"]
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            else:
+                                # Regular translation without variations
+                                modified_xcstrings[filename]['strings'][string_key]['localizations'][lang] = {
+                                    "stringUnit": {
+                                        "state": "translated",
+                                        "value": translation
+                                    }
+                                }
 
             print(f"Updated translations for '{string_key}' in {filename}")
 
