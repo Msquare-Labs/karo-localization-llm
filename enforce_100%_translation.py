@@ -109,17 +109,17 @@ def save_llm_schemas(llm_schemas):
 
 
 # Main execution
-folder_path = 'Frameworks'
+folder_path = 'Tasks'
 languages_to_check = [
     'ar', 'de', 'es', 'fr', 'ja', 'nl', 'pt', 'zh-Hans', 'zh-Hant',
-    'it', 'ko', 'sv', 'hi', 'pl', 'tr'
+    'it', 'ko', 'sv', 'hi', 'pl', 'tr', 'ru'
 ]
 
 # Check for missing translations
 missing_translations, file_structures = check_translations(folder_path, languages_to_check)
 
 # Create schemas for LLM, split into files of approximately 4000 tokens each
-llm_schemas = create_llm_schemas(missing_translations, languages_to_check, max_tokens=6000)
+llm_schemas = create_llm_schemas(missing_translations, languages_to_check, max_tokens=60000)
 
 # Save the LLM schemas to files
 save_llm_schemas(llm_schemas)

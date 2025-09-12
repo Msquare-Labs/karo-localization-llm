@@ -117,6 +117,6 @@ def update_xcstrings_with_translations(xcstrings_folder):
     print("All translations have been updated.")
 
 # Usage
-xcstrings_folder = 'Frameworks'  # Update this to the correct path if needed
+xcstrings_folder = 'Tasks'  # Update this to the correct path if needed
 
 update_xcstrings_with_translations(xcstrings_folder)
