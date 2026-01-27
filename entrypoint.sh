@@ -83,8 +83,9 @@ if [ -z "$GITHUB_TOKEN" ]; then
     echo "❌ Error: GITHUB_TOKEN is required to create a PR"
     exit 1
 fi
-echo "$GITHUB_TOKEN" | gh auth login --with-token
-echo "✅ GitHub CLI authenticated"
+
+# GitHub CLI will automatically use the GITHUB_TOKEN environment variable
+echo "✅ Using GITHUB_TOKEN for authentication"
 
 # Configure git
 git config --global user.name "github-actions[bot]"
