@@ -109,19 +109,42 @@ def save_llm_schemas(llm_schemas):
 
 
 # Main execution
-folder_path = 'Tasks'
-languages_to_check = [
-    'ar', 'de', 'es', 'fr', 'ja', 'nl', 'pt', 'zh-Hans', 'zh-Hant',
-    'it', 'ko', 'sv', 'hi', 'pl', 'tr', 'ru'
-]
-
-# Check for missing translations
-missing_translations, file_structures = check_translations(folder_path, languages_to_check)
-
-# Create schemas for LLM, split into files of approximately 4000 tokens each
-llm_schemas = create_llm_schemas(missing_translations, languages_to_check, max_tokens=60000)
-
-# Save the LLM schemas to files
-save_llm_schemas(llm_schemas)
-
-print(f"Created {len(llm_schemas)} files for LLM processing")
+if __name__ == '__main__':
+    import argparse
+    
+    parser = argparse.ArgumentParser(description='Enforce 100% translation coverage for .xcstrings files')
+    parser.add_argument('--folder', required=True, help='Path to folder containing .xcstrings files')
+    parser.add_argument('--languages', required=True, help='Comma-separated list of language codes')
+    parser.add_argument('--max-tokens', type=int, default=60000, help='Maximum tokens per batch (default: 60000)')
+    
+    args = parser.parse_args()
+    
+    folder_path = args.folder
+    languages_to_check = [lang.strip() for lang in args.languages.split(',')]
+    
+    print(f"Checking translations in: {folder_path}")
+    print(f"Target languages: {', '.join(languages_to_check)}")
+    
+    # Validate folder exists
+    if not os.path.exists(folder_path):
+        print(f"❌ Error: Folder '{folder_path}' does not exist")
+        exit(1)
+    
+    if not os.path.isdir(folder_path):
+        print(f"❌ Error: '{folder_path}' is not a directory")
+        exit(1)
+    
+    # Check for missing translations
+    missing_translations, file_structures = check_translations(folder_path, languages_to_check)
+    
+    if not missing_translations:
+        print("✅ All translations are complete!")
+        exit(0)
+    
+    # Create schemas for LLM, split into files of approximately specified tokens each
+    llm_schemas = create_llm_schemas(missing_translations, languages_to_check, max_tokens=args.max_tokens)
+    
+    # Save the LLM schemas to files
+    save_llm_schemas(llm_schemas)
+    
+    print(f"✅ Created {len(llm_schemas)} file(s) for LLM processing")

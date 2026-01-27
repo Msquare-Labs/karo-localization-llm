@@ -116,7 +116,26 @@ def update_xcstrings_with_translations(xcstrings_folder):
 
     print("All translations have been updated.")
 
-# Usage
-xcstrings_folder = 'Tasks'  # Update this to the correct path if needed
-
-update_xcstrings_with_translations(xcstrings_folder)
+# Main execution
+if __name__ == '__main__':
+    import argparse
+    
+    parser = argparse.ArgumentParser(description='Apply LLM translations to .xcstrings files')
+    parser.add_argument('--folder', required=True, help='Path to folder containing .xcstrings files')
+    
+    args = parser.parse_args()
+    
+    xcstrings_folder = args.folder
+    
+    print(f"Applying translations to files in: {xcstrings_folder}")
+    
+    # Validate folder exists
+    if not os.path.exists(xcstrings_folder):
+        print(f"❌ Error: Folder '{xcstrings_folder}' does not exist")
+        exit(1)
+    
+    if not os.path.isdir(xcstrings_folder):
+        print(f"❌ Error: '{xcstrings_folder}' is not a directory")
+        exit(1)
+    
+    update_xcstrings_with_translations(xcstrings_folder)

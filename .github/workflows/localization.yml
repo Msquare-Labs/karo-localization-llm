@@ -1,0 +1,26 @@
+name: Auto-Translate Localizations
+
+on:
+  workflow_dispatch:
+    inputs:
+      source-folder:
+        description: 'Path to folder containing .xcstrings files'
+        required: true
+        default: 'Tasks'
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Run LLM-Powered Localization
+        uses: ./
+        with:
+          gemini-api-key: ${{ secrets.GEMINI_API_KEY }}
+          source-folder: ${{ inputs.source-folder }}

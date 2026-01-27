@@ -1,0 +1,28 @@
+name: 'LLM-Powered Localization'
+description: 'Automatically translate .xcstrings localization files using Google Gemini AI'
+author: 'Your Name'
+
+branding:
+  icon: 'globe'
+  color: 'blue'
+
+inputs:
+  gemini-api-key:
+    description: 'Google Gemini API key for translations'
+    required: true
+  source-folder:
+    description: 'Path to folder containing .xcstrings files'
+    required: true
+
+outputs:
+  translations-count:
+    description: 'Number of strings translated'
+  pr-number:
+    description: 'Pull request number created'
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  args:
+    - ${{ inputs.gemini-api-key }}
+    - ${{ inputs.source-folder }}
