@@ -78,6 +78,13 @@ rm -f llm_translation_task_*.json
 echo ""
 echo "📤 Step 5: Creating pull request..."
 
+# Authenticate GitHub CLI
+if [ -z "$GITHUB_TOKEN" ]; then
+    echo "❌ Error: GITHUB_TOKEN is required to create a PR"
+    exit 1
+fi
+echo "$GITHUB_TOKEN" | gh auth login --with-token
+
 # Configure git
 git config --global user.name "github-actions[bot]"
 git config --global user.email "github-actions[bot]@users.noreply.github.com"

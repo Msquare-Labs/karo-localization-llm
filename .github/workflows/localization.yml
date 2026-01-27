@@ -24,3 +24,5 @@ jobs:
         with:
           gemini-api-key: ${{ secrets.GEMINI_API_KEY }}
           source-folder: ${{ inputs.source-folder }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
