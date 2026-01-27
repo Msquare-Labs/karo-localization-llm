@@ -88,6 +88,7 @@ fi
 echo "✅ Using GITHUB_TOKEN for authentication"
 
 # Configure git
+git config --global --add safe.directory /github/workspace
 git config --global user.name "github-actions[bot]"
 git config --global user.email "github-actions[bot]@users.noreply.github.com"
 echo "✅ Git configured"
