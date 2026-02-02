@@ -4,7 +4,7 @@ Automatically translate `.xcstrings` localization files using Google Gemini AI. 
 
 ## ✨ Features
 
-- 🤖 **AI-Powered Translation**: Uses Google Gemini (`gemini-2.0-flash-exp`) for high-quality translations
+- 🤖 **AI-Powered Translation**: Uses Google Gemini (`gemini-3-flash-preview`) for high-quality translations
 - 🌐 **Multi-Language Support**: Supports 16 languages out of the box
 - 🔄 **Regional Variants**: Automatically adds regional variants (en-AU, pt-BR, es-419, etc.)
 - 📝 **Plural Forms**: Handles complex plural forms correctly

@@ -48,7 +48,7 @@ Return only the JSON object with completed translations, no additional text or e
         try:
             # Call Gemini API using new SDK
             response = client.models.generate_content(
-                model='gemini-2.0-flash-exp',
+                model='gemini-3-flash-preview',
                 contents=prompt,
                 config=types.GenerateContentConfig(
                     temperature=0.3,
@@ -109,7 +109,7 @@ Return only the JSON object with completed translations, no additional text or e
 def main():
     parser = argparse.ArgumentParser(description='Translate localization strings using Google Gemini AI')
     parser.add_argument('--api-key', required=True, help='Google Gemini API key')
-    parser.add_argument('--model', default='gemini-2.0-flash-exp', help='Gemini model to use (default: gemini-2.0-flash-exp)')
+    parser.add_argument('--model', default='gemini-3-flash-preview', help='Gemini model to use (default: gemini-3-flash-preview)')
     
     args = parser.parse_args()
     
